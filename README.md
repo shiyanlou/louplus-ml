@@ -1,5 +1,7 @@
 ### 实验楼《楼+ 机器学习实战》课程挑战作业参考答案：https://www.shiyanlou.com/louplus/ml
 
+### 在线浏览：https://nbviewer.jupyter.org/github/shiyanlou/louplus-ml/tree/master/
+
 挑战使用到的模块版本为：
 
 - `numpy: 1.14.2`
