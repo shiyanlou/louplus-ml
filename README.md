@@ -1,6 +1,7 @@
-### 实验楼《楼+ 机器学习实战》课程挑战作业参考答案：https://www.shiyanlou.com/louplus/ml
+### 实验楼《楼+ 机器学习实战》课程挑战作业参考答案
 
-### 在线浏览：https://nbviewer.jupyter.org/github/shiyanlou/louplus-ml/tree/master/
+#### 在线浏览：https://nbviewer.jupyter.org/github/shiyanlou/louplus-ml/tree/master/
+#### 课程地址：https://www.shiyanlou.com/louplus/ml
 
 挑战使用到的模块版本为：
 
