@@ -4,4 +4,4 @@
 
 如果你在课程页面提问，问答将会自动同步到 Issues 中，助教会及时解答。
 
-- [课程内容修订日志](https://github.com/shiyanlou/louplus-ml/wiki/CHANGELOG)
+- [课程内容修订日志 CHANGELOG](https://github.com/shiyanlou/louplus-ml/wiki/CHANGELOG)
