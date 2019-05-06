@@ -1,6 +1,6 @@
 <div align="center">
   <h1><img src="https://static.shiyanlou.com/img/louplus/louplus_logo.png"></h1>
-  <b>实验楼《楼+ 机器学习实战》课程仓库｜<a href="https://www.shiyanlou.com/louplus/dm">课程报名</a></b>
+  <b>实验楼《楼+ 机器学习实战》课程仓库｜<a href="https://www.shiyanlou.com/louplus/ml">课程报名</a></b>
 </div>
 
 <br />
