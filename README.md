@@ -5,7 +5,7 @@
 
 <br />
 
-- [挑战参考答案 [2.0 课程]](https://github.com/shiyanlou/louplus-ml/tree/master/Answers)
+- [挑战参考答案 [2.0 课程]](https://github.com/shiyanlou/louplus-ml/tree/ML2-01-02/Answers)
 - [挑战参考答案 [1.0 课程 05-06 期]](https://github.com/shiyanlou/louplus-ml/tree/ML05-06/Answers)
 - [挑战参考答案 [1.0 课程 01-04 期]](https://github.com/shiyanlou/louplus-ml/tree/ML01-04)
 - [课程思维导图](https://github.com/shiyanlou/louplus-ml/tree/master/Mindmaps)
